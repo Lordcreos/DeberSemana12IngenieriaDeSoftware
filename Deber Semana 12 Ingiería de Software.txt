@@ -3,3 +3,57 @@ Deber Semana 12
 Leonardo Sánchez
 Jessica Córdova
 Elena Mariscal
+
+GCS Gestión de configuración de software
+ Identificación de la configuración
+ Control de la configuración
+ Manejo de informes de estado de proceso de software
+ Revisión de proceso de software
+ Crear procesos de administración de de equipos de trabajo para mejorar las actividades
+de proceso de desarrollo de software
+Se usa la Gsc por que provee la habilidad de dar seguimiento a los cambios durante el
+desarrollo secuencial o paralelo.
+Organiza las tareas y actividades
+Asegura la configuración correcta del software
+Linea Base
+Se aplica la línea base para controlar los cambios justificados es decir que cada fase
+tiene un inicio y final, cuando se termina una fase de un proyecto se define un alinea
+base de cada elemento por ejemplo: la planificación que es el plan del proyecto si se
+quiere modificar la planificación esta debe estar debidamente justificada con la gestión
+de configuración de software.
+Elementos de configuración de software (ECS)
+Permite configurar la línea base de lo que se va a entregar al final por ejemplo en:
+Especificación del sistema
+Se especifica el funcionamiento del sistema como son plataforma, manejo de
+usuarios.
+Plan de proyecto de software
+Se genera un plan para controlar la planificación a nivel de cronogramas, ejecución,
+pruebas. 
+UNIVERSIDAD TECNOLÓGICA ISRAEL
+FORMATO DE ACTIVIDADES DE SEGUIMIENTO
+(INGENIERIA DE SOFTWARE II)
+Docente: Mg. Mario Pérez
+Especificación de requerimientos
+En este punto se analiza los requerimientos funcionales y no funcionales, se genera un
+prototipo ejecutable o en papel con la arquitectura que se va aplicar y esquematizaciones
+básicas, el cuál será útil para las recomendaciones.
+Manual de usuario preliminar
+Trata del usuario final
+Especificación de diseño
+Detalla colores, botones
+Lista de código fuente
+Se debe entregar el código aplicando todos los estándares.
+Planificación y procedimiento de prueba
+El software pasará por 3 o 4 testeos
+Casos de prueba y resultados registrados
+Si las pruebas son satisfactorias está listo para entregar, caso contrario se realizará una
+retroalimentación que tomará un tiempo aproximado de un mes.
+Manual de operación e instalación
+Este punto detalla si la aplicación va a estar en Icloud, servidor o vitalizado.
+El ancho de banda mínimo establecido
+Programas ejecutables es la entrega de software.
+Se genera el .exe
+Documentos de mantenimiento:
+En este punto se debe entregar los informes de problemas de software, peticiones de
+mantenimiento, órdenes de cambio de ingeniería.
+Estándares y procedimiento de ingeniería de software
